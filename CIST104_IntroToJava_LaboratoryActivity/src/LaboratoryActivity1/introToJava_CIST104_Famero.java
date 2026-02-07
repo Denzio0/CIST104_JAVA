@@ -23,12 +23,12 @@ public class introToJava_CIST104_Famero {
         int agePer = scanner.nextInt();
 
         System.out.print("ENTER YOUR STUDENT NUMBER:");
-        int studNum = scanner.nextInt();
+        long studNum = scanner.nextLong();
 
         System.out.println("THIS IS YOUR PROFILE INFO");
         System.out.println("HELLO! " + firstName + " " + surName);
-        System.out.println("YOUR STUDENT NUMBER IS: " + studNum);
         System.out.println("YOUR AGE IS: " + agePer);
+        System.out.println("YOUR STUDENT NUMBER IS: " + studNum);
 
         scanner.close(); // close scanner
     }
