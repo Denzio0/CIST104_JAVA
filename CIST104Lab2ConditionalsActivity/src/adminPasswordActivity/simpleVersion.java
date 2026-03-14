@@ -1,3 +1,5 @@
+//FAMERO, MARC RODEN D. BSIT 1-3
+//INTERMEDIATE PROGRAMMING (CIST104 LAB)
 package adminPasswordActivity;
 import java.util.Scanner;
 public class simpleVersion {
